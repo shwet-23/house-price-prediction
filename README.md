@@ -70,7 +70,7 @@ The project includes:
 01_House_Price_Prediction/
 
 ├── data/
-│   └── raw/
+│
 
 ├── notebooks/
 │   └── house_price_prediction.ipynb
